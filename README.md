@@ -1,6 +1,11 @@
-# Pet-vet Project
+# Pet-vet Application
 
- Project 
+ Application for a Pet Registration and Vet Processing System
+ 
+ * Junit
+ * Java
+ * Maven
+ * Classes and Subclasses
 
 
 
