@@ -25,6 +25,6 @@ package com.sqa.aa.pet.vet;
 public class Dog extends Mammal {
 	private boolean performsAtShows;
 	private boolean wolfBreed;
-	private string serviceType;
+	private String serviceType;
 
 }
